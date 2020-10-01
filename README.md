@@ -1,64 +1,47 @@
 # CaptainAmerica
 
-For other uses, see Captain America (disambiguation).
-This article is about Steve Rogers. For the subsequent versions of the character, see List of incarnations of Captain America.
-"Steve Rogers (Marvel Comics)" redirects here. For the film character, see Steve Rogers (Marvel Cinematic Universe).
-Captain America is a superhero appearing in American comic books published by Marvel Comics. Created by cartoonists Joe Simon and Jack Kirby, the character first appeared in Captain America Comics #1 (cover dated March 1941) from Timely Comics, a predecessor of Marvel Comics. Captain America was designed as a patriotic supersoldier who often fought the Axis powers of World War II and was Timely Comics' most popular character during the wartime period. The popularity of superheroes waned following the war, and the Captain America comic book was discontinued in 1950, with a short-lived revival in 1953. Since Marvel Comics re
-Steve Rogers
-Captain America
-Captain America bursting through a page of newspaper
-Captain America #109 (January 1969).
-Cover art by Jack Kirby and Syd Shores.
-Publication information
-Publisher
-Marvel Comics
-First appearance
-Captain America Comics #1 (March 1941)
-Created by
-Joe Simon
-Jack Kirby
-In-story information
-Alter ego
-Steven Grant Rogers
-Team affiliations
-Avengers
-Avengers Unity Division
-All-Winners Squad
-Illuminati
-Invaders
-Landau, Luckman, and Lake
-New Avengers
-Project: Rebirth
-Redeemers
-S.H.I.E.L.D.
-Secret Avengers
-Secret Defenders
-U.S. Army
-New York City Police Department
-Partnerships
-Bucky Barnes
-Peggy Carter
-Agent 13
-Falcon
-Notable aliases
-Nomad
-The Captain
-Spider King
-Abilities
-Enhanced strength, speed, stamina, durability, agility, reflexes, senses, and mental processing via the super soldier serum
-Master martial artist and hand-to-hand combatant
-Accelerated healing factor
-Immunity to diseases and toxins
-Slowed ageing
-Master tactician, strategist, and field commander
+Captain America is a superhero appearing in American comic books published by Marvel Comics. Created by cartoonists Joe Simon and Jack Kirby, the character first appeared in Captain America Comics #1 (cover dated March 1941) from Timely Comics, a predecessor of Marvel Comics. Captain America was designed as a patriotic supersoldier who often fought the Axis powers of World War II and was Timely Comics' most popular character during the wartime period. The popularity of superheroes waned following the war, and the Captain America comic book was discontinued in 1950, with a short-lived revival in 1953.
+# Captain America Publication information
+Publisher: Marvel Comics
+First appearance: Captain America Comics #1 (March 1941)
+Created by: Joe Simon
+            Jack Kirby
+# In-story Information
+Alter ego: Steven Grant Rogers
+Team affiliations: Avengers
+                   Avengers Unity Division
+                   All-Winners Squad
+                   Illuminati
+                   Invaders
+                   Landau, Luckman, and Lake
+                   New Avengers
+                   Project: Rebirth
+                   Redeemers
+                   S.H.I.E.L.D.
+                   Secret Avengers
+                   Secret Defenders
+                   U.S. Army
+                   New York City Police Department
+                   Partnerships
+                   Bucky Barnes
+                   Peggy Carter
+                   Agent 13
+                   Falcon
+Notable aliases: Nomad
+                 The Captain
+                 Spider King
+Abilities: Enhanced strength, speed, stamina, durability, agility, reflexes, senses, and mental processing via the super soldier serum
+Master martial artist and hand-to-hand combatant, Accelerated healing factor, Immunity to diseases and toxins, Slowed ageing,Master tactician, strategist, and field commander,
 Wields Vibranium-steel alloy shield
+
+# About
 The character wears a costume bearing an American flag motif, and he utilizes a nearly indestructible shield that he throws as a projectile. Captain America is the alter ego of Steve Rogers, a frail young man enhanced to the peak of human perfection by an experimental serum to aid the United States government's efforts in World War II. Near the end of the war, he was trapped in ice and survived in suspended animation until he was revived in modern times. Although Captain America often struggles to maintain his ideals as a man out of his time, he remains a highly respected figure in his community, which includes becoming the long-time leader of the Avengers.
 
 Captain America was the first Marvel Comics character to appear in media outside comics with the release of the 1944 movie serial, Captain America. Since then, the character has been featured in other films and television series. In the Marvel Cinematic Universe (MCU), the character is portrayed by Chris Evans.
 
 Captain America was ranked sixth on IGN's "Top 100 Comic Book Heroes of All Time" in 2011,[1] second in their list of "The Top 50 Avengers" in 2012,[2] and second in their "Top 25 best Marvel superheroes" list in 2014.[3]
 
-Publication history
+# Publication history
 Further information: List of Captain America titles
 Creation
 In 1940, writer Joe Simon conceived the idea for Captain America and made a sketch of the character in costume.[4] "I wrote the name 'Super American' at the bottom of the page," Simon said in his autobiography, and then decided:
@@ -75,7 +58,7 @@ Al Lieberman would ink that first issue, which was lettered by Simon and Kirby's
 
 Simon said Captain America was a consciously political creation; he and Kirby were morally repulsed by the actions of Nazi Germany in the years leading up to the United States' involvement in World War II and felt war was inevitable: "The opponents to the war were all quite well organized. We wanted to have our say too."[7]
 
-Golden Age
+# Golden Age
 The front page of the first Captain America comic depicts Captain America punching Adolf Hitler in the jaw. A Nazi soldier's bullet deflects from Captain America's shield, while Adolf Hitler falls onto a map of the United States of America and a document reading 'Sabotage plans for U.S.A.'
 Captain America Comics #1 (March 1941). Cover art by Joe Simon (inks and pencils) and Jack Kirby (pencils).
 Captain America Comics #1 — cover-dated March 1941[8] and on sale December 20, 1940,[9][10] a year before the attack on Pearl Harbor, but a full year into World War II — showed the protagonist punching Nazi leader Adolf Hitler; it sold nearly one million copies.[11] While most readers responded favorably to the comic, some took objection. Simon noted, "When the first issue came out we got a lot of  ... threatening letters and hate mail. Some people really opposed what Cap stood for."[7] The threats, which included menacing groups of people loitering out on the street outside of the offices, proved so serious that police protection was posted with New York Mayor Fiorello La Guardia personally contacting Simon and Kirby to give his support.[12]
@@ -88,7 +71,7 @@ In the post-war era, with the popularity of superheroes fading, Captain America 
 
 Atlas Comics attempted to revive its superhero titles when it reintroduced Captain America, along with the original Human Torch and the Sub-Mariner, in Young Men #24 (Dec. 1953). Billed as "Captain America, Commie Smasher!" Captain America appeared during the next year in Young Men #24–28 and Men's Adventures #27–28, as well as in issues #76–78 of an eponymous title. Atlas' attempted superhero revival was a commercial failure,[20] and the character's title was canceled with Captain America #78 (Sept. 1954).
 
-Silver and Bronze Age
+# Silver and Bronze Age
  
 Avengers #4 (March 1964). Cover art by Jack Kirby and George Roussos.
 In the Human Torch story titled "Captain America" in Marvel Comics' Strange Tales #114 (Nov. 1963),[21] writer-editor Stan Lee and artist and co-plotter Jack Kirby depicted the brash young Fantastic Four member Johnny Storm, the Human Torch, in an exhibition performance with Captain America, described as a legendary World War II and 1950s superhero who has returned after many years of apparent retirement. The 18-page story ends with this Captain America revealed as an impostor: it was actually the villain the Acrobat, a former circus performer the Torch had defeated in Strange Tales #106, who broke two thieves out of jail, hoping to draw the police away while trying to rob the local bank. Afterward, Storm digs out an old comic book in which Captain America is shown to be Steve Rogers. A caption in the final panel says this story was a test to see if readers would like Captain America to return. According to Lee, fan response to the tryout was very enthusiastic.[22]
@@ -101,7 +84,7 @@ This series — considered Captain America volume one by comics researchers and 
 
 This series was almost immediately followed by the 13-issue Captain America vol. 2 (Nov. 1996 – Nov. 1997, part of the "Heroes Reborn" crossover),[28] the 50-issue Captain America vol. 3 (Jan. 1998 – Feb. 2002),[29] the 32-issue Captain America vol. 4 (June 2002 – Dec. 2004),[30] and Captain America vol. 5 (Jan. 2005 – Aug. 2011).[31] Beginning with the 600th overall issue (Aug. 2009), Captain America resumed its original numbering, as if the series numbering had continued uninterrupted after #454.
 
-Modern Age
+# Modern Age
 As part of the aftermath of Marvel Comics' company-crossover storyline "Civil War", Steve Rogers was ostensibly killed in Captain America vol. 5, #25 (March 2007).
 
 The storyline of Rogers' return began in issue #600.[32][33] Rogers, who was not dead but caroming through time, returned to the present day in the six-issue miniseries Captain America: Reborn (Sept. 2009 – March 2010).[34]
